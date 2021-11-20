@@ -18,6 +18,22 @@
       "address": "0xd7c3ef095ad03910152694bf1739feb9544cd38f",
       "symbol": "ETT",
       "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://ettios.io/images/avatar.png"
+    },
+    {
+      "name": "USD Coin",
+      "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Ettios",
+      "address": "0xd7c3ef095ad03910152694bf1739feb9544cd38f",
+      "symbol": "ETT",
+      "decimals": 18,
       "chainId": 80001,
       "logoURI": "https://ettios.io/images/avatar.png"
     },
