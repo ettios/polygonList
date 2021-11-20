@@ -18,7 +18,7 @@
       "address": "0xd7c3ef095ad03910152694bf1739feb9544cd38f",
       "symbol": "ETT",
       "decimals": 18,
-      "chainId": 137,
+      "chainId": 80001,
       "logoURI": "https://ettios.io/images/avatar.png"
     },
     {
@@ -26,12 +26,12 @@
       "address": "0x2058a9d7613eee744279e3856ef0eada5fcbaa7e",
       "symbol": "USDC",
       "decimals": 6,
-      "chainId": 137,
+      "chainId": 80001,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "name": "Dai Stablecoin",
-      "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+      "address": "0x001b3b4d0f3714ca98ba10f6042daebf0b1b7b6f",
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 80001,
